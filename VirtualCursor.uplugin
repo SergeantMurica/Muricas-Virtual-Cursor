@@ -1,0 +1,29 @@
+{
+	"FileVersion": 1,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Virtual Cursor",
+	"Description": "",
+	"Category": "SergeantMurica",
+	"CreatedBy": "SergeantMurica",
+	"CreatedByURL": "SergeantMurica",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": true,
+	"RequiresBuildPlatform": false,
+	"Modules": [
+		{
+			"Name": "VirtualCursor",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"WhitelistPlatforms": [
+				"Win64",
+				"XBoxOne",
+				"PS4"
+			]
+		}
+	]
+}
